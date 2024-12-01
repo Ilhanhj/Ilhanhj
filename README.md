@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ilhan HJ</h1>
-<p align="center">🚀 A passionate Frontend Developer from Indonesia 🚀</p>
+<h1 align="center">Hi 👋, I'm Ilhan HJ, you can call me Han</h1>
+<p align="center">🚀 A passionate Frontend Developer from Indonesia. I bring ideas to life with clean code and modern tools like React.js, Next.js, and TailwindCSS. Passionate about creating seamless, responsive designs, I focus on delivering engaging user experiences that work beautifully on any device. Let’s connect and create something amazing together! 🚀</p>
 
 <h2 align="left">💻 Languages and Tools</h2>
 <p align="left">
