@@ -41,5 +41,5 @@
 <h2 align="left">📝 Recent Projects</h2>
 <ul>
   <li><a href="https://mignons-streetwear.vercel.app/" target="_blank">Mignons Streetwear</a> - An e-commerce website built with Next.js and TailwindCSS</li>
-  <li><a href="https://github.com/ilhanhj/bookstore-project" target="_blank">Bookstore Project</a> - A full-stack bookstore web app using Firebase and Google Books API</li>
+  <li><a href="https://github.com/Ilhanhj/cheesecool-project" target="_blank">Cheesecool University Project</a> - A full-stack University web app using Laravel and TailwindCSS</li>
 </ul>
